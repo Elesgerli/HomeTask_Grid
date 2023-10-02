@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.col-1 {
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-2 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-3 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+
+.col-4 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+
+.col-5 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-6 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-7 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-8 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-9 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-10 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-11 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
+
+.col-12 {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    height: 100px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: blue;
+    }
+}
